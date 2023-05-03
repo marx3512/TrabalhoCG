@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1682530756 source:c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\main.c
+	<windows.h>
+	<GL/glut.h>
+	"HandlerOpenGL.c"
+	"VariaveisGlobais.h"
+
+1682530883 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\handleropengl.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Listas.c"
+	"VariaveisGlobais.h"
+
+1682360290 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\listas.c
+
+1682359833 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\variaveisglobais.h
+
+1682169063 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\listapoligono.c
+
+1682630793 source:c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\main.c
+	<windows.h>
+	<GL/glut.h>
+	"HandlerOpenGL.c"
+	"VariaveisGlobais.h"
+
+1682629896 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\handleropengl.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Listas.c"
+	"VariaveisGlobais.h"
+
+1682360290 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\listas.c
+
+1682359833 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\variaveisglobais.h
+
+1683112512 source:c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\projetocg1\main.c
+	<windows.h>
+	<GL/glut.h>
+	"HandlerOpenGL.c"
+	"VariaveisGlobais.h"
+
+1683145448 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\projetocg1\handleropengl.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Listas.c"
+	"VariaveisGlobais.h"
+
+1683112540 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\projetocg1\listas.c
+
+1682705555 c:\users\marx\desktop\faculdade\computação grafica\respostas tarefa\projetocg1\projetocg1\projetocg1\projetocg1\variaveisglobais.h
+
